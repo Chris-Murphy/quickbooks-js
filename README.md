@@ -2,7 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/RappidDevelopment/quickbooks-js/badge.svg?branch=mm%2Fenhancement%2F%239%2Fasynchronous-support)](https://coveralls.io/github/RappidDevelopment/quickbooks-js?branch=mm%2Fenhancement%2F%239%2Fasynchronous-support)  
 quickbooks-js
 ======
-A SOAP service implemented in Node.js that communicates with [QuickBook's Web Connector](https://developer.intuit.com/docs/0200_quickbooks_desktop/0400_tools/web_connector).
+A SOAP service (now with HTTPS support added) implemented in Node.js that communicates with [QuickBook's Web Connector](https://developer.intuit.com/docs/0200_quickbooks_desktop/0400_tools/web_connector).
 
 ## Usage 
 The following steps _should_ get you up and running. 
